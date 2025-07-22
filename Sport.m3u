@@ -1,1 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Sports",ESPN
+https://iptv-org.github.io/iptv/channels/us.ESPN.m3u8
+
+#EXTINF:-1 tvg-id="foxsports" tvg-name="Fox Sports" group-title="Sports",Fox Sports
+https://iptv-org.github.io/iptv/channels/us.FoxSports.m3u8
+
+#EXTINF:-1 tvg-id="skysports" tvg-name="Sky Sports" group-title="Sports",Sky Sports
+https://iptv-org.github.io/iptv/channels/gb.SkySports.m3u8
+
+#EXTINF:-1 tvg-id="bein" tvg-name="beIN Sports" group-title="Sports",beIN Sports
+https://iptv-org.github.io/iptv/channels/qa.beIN.m3u8
+
+#EXTINF:-1 tvg-id="tsn" tvg-name="TSN" group-title="Sports",TSN
+https://iptv-org.github.io/iptv/channels/ca.TSN.m3u8
+
+#EXTINF:-1 tvg-id="nba" tvg-name="NBA TV" group-title="Sports",NBA TV
+https://iptv-org.github.io/iptv/channels/us.NBATV.m3u8
+
+#EXTINF:-1 tvg-id="tennischannel" tvg-name="Tennis Channel" group-title="Sports",Tennis Channel
+https://iptv-org.github.io/iptv/channels/us.TennisChannel.m3u8
+
+#EXTINF:-1 tvg-id="motorsporttv" tvg-name="Motorsport TV" group-title="Sports",Motorsport TV
+https://iptv-org.github.io/iptv/channels/fr.MotorsportTV.m3u8
